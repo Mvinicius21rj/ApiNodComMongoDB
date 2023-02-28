@@ -1,0 +1,3 @@
+Aplicação de Servidor node simples com nodemon
+
+npm install nodemon -D **D siginifica dev**
